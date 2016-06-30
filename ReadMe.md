@@ -1,30 +1,58 @@
-BASISDEEL: KT1: 
-de opdracht vaststellen: de media-ontwikkelaar overlegt met zijn werkgever of het project wel gerealiseerd kan worden, hij moet hiervoor de info, eisen, wensen etc... weten zodat de werkgever en de media-ontwikkelaar op 1 lijn zitten en deze tevreden zijn over het project. maar ook zodat hij weet of eisen en behoeftes aansluiten bij die van het bedrijf.
+Kerntaken
+=====================
 
-Bijdrage leveren aan het projectplan: de ontwikkelaar plant zijn uit te voeren taken (draagt aan bij het projectplan) en legt hij momenten vast wanneer hij met betrokkenen kan communiceren over de voortgang van het project en stelt de realistisch/haalbare planning,doelstelling bij.
+Hier ga ik in mijn eigen woorden uitleggen wat er allemaal in het dossier staat en in een readme document inleveren op github.
 
-Levert een bijdrage aan het ontwerp: Actief komen met ideeën die aansluiten bij de wensen en behoeftes van de klant. deze moet hij onderbouwend en beargumenteerd overbrengen aan zijn leigingevende om een overeenstemming te krijgen. onderliggende compensaties zijn:Analyseren, omgaan met veranderingen een aanpassen.
+Kwalificatiedossier
+-----------------
 
-Realisatie voorbereiden:
+**B1-K1:  Levert een bijdrage aan het ontwikkeltraject**<br>
+Je moet kunnen samenwerken aan een project en oplossingen kunnen vinden voor de problemen.
 
-een belangrijke taak is natuurlijk het project realiseren, hiervoor lees je het ontwerp en verzamel je alle benodigheden om de realisatie te starten.
+**B1-K1-W1:  Stelt de opdracht vast**<br>
+je overlegt met de opdrachtgever om diens vraag tot werkelijkheid te brengen.
 
-KT2: Realiseert en test onderdelen van een product. het project moet vaak getest worden zodat het een goed resultaat heeft. dit moet hij natuurlijk wel in de planning weten te halen, hij gebruikt desbetreffende documentatie zoals het ontwerp. tenslotten documenteert hij het realisatieproces van zijn werkzaamheden.
 
-Test het ontwikkelde product: de ontwikkelaar test de werking en functionaliteit van het product. hij verzameld gegevens en test deze op betrouwbaarheid.
 
-hij kan aanpassingen doorvoeren indien het nodig is en draafr oplossingen aan. hij werkt de documentatie aan als dat gebeurt
+**B1-K1-W2:  Levert een bijdrage aan het projectplan**<br>
+Een stappenplan gaan maken hoe jij de website wilt hebben.
 
-KT3 Optimaliseert het product: je neemt reacties van gebruikers op om mee te nemen in de totstandkoming van het product, hij toets/overweegt of hij de informatie kan verwerken ter verbetering van het product.
 
-Levert het product op: je levert het product na de laatste testactiviteiten aan de opdrachtgever. hij presenteert de werking en functionaliteiten en vraagt om goedkoering van het product.
+**B1-K1-W3:  Levert een bijdrage aan het ontwerp**<br>
+Je geeft veel feedback aan de klant en geeft hem nieuwe en frisse ideeën en hoopt tot een overeenkomst te komen met je opdrahctgever.
 
-Evalueert het opgeleverde product: je evalueert het opgeleverde product en proces samen met zijn leidinggevende en/of projectteam. hij gaat het opleverproces na en kijkt naar wat goed is gegaan, wat de verbeterpunten zijn. en legt deze vast en laat deze accorderen,
 
-PROFIELDEEL:
+**B1-K1-W4:  Bereidt de realisatie voor**<br>
+Je bewaakt de kwaliteit en de eisen die in het ontwerp vermeld staan.
+Je pakt je werkzaamheden op een georganiseerde manier aan.
 
-P1-K1: Onderhoudt en beheert de applicatie: Als mediadeveloper zijn er verschillende werkzaamheden. zo moet je bijv de technologische ontwikkelingen in je vakgebied bijouden.
 
-Onderhoudt een applicatie: Als een mediadeveloper moet je de applicatie ook onderhouden, je handelt in incidentmeldingen. je achterhaalt gewijzigde behoeftes, productaanpassingen en eisen van de opdrachtgever. hij let erop of bepaalde acties het project qua werking kapot maakt en kijkt of er voor bepaalde dingen een aanschaf voor bepaalde software/modules/uitbreidingen gemaakt moeten worden.
+**B1-K2:  Realiseert en test (onderdelen van) een product**<br>
+Tijdens het realiseren ga je een test uit voeren op het product wat je hebt gemaakt.
 
-Beheert gegevens: Je documenteert, archiveert gegevens en voert versiebeheer door van applicaties in zijn beheer. ook verzamelt hij gerelateerde documentaties en noteert de specificaties,inloggegevens.databasegegevens,aanpassingen,eisen en wijzigingen. hij toets de content ook
+
+**B1-K2-W1:  Realiseert (onderdelen van) een product**<br>
+Je kiest de juiste materialen en middelen en gebruikt deze zo goed mogelijk.
+
+
+**B1-K2-W2:  Test het ontwikkelde product**<br>
+Gedurende de realisatie continue de werking van het product testen. kijken of het wel snel genoeg is en of het wel correct werkt.
+
+ 
+**B1-K3:  Levert een product op**<br>
+Hier ga je nog de puntjes op de i zetten en het eindresultaat laat je zien aan je opdrachtgever.
+
+
+**B1-K3-W1:  Optimaliseert het product**<br>
+De laatste kleine foutjes uit je product werken.
+
+
+**B1-K3-W2:  Levert het product op**<br>
+Je presenteert je poduct en overtuigd iedereen ervan hoe geweldig het is.
+
+
+**B1-K3-W3:  Evalueert het opgeleverde product**<br>
+Je raadpleegt betrokkenen om met hen door te nemen of het product volgens richtlijnen, afspraken en conform opdracht is opgeleverd.
+
+**Keuzedeel**
+Elk profiel dat je maakt moet twee keuzendelen hebben. Een keuzendeel maakt een doorstroom makkelijker naar een vervolgstudie.
